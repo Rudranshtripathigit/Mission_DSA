@@ -21,6 +21,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,5 +36,10 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
