@@ -6,6 +6,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -19,9 +20,14 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
