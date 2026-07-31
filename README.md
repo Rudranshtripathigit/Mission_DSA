@@ -10,6 +10,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0228-summary-ranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -77,4 +79,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
