@@ -9,6 +9,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0228-summary-ranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -60,6 +62,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
