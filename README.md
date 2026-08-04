@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
@@ -23,6 +24,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
