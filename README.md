@@ -74,6 +74,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
