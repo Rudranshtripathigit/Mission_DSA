@@ -13,12 +13,9 @@ public:
     ListNode* partition(ListNode* head, int x) {
       ListNode* small = new ListNode(0);
       ListNode*smallcurr=small;
-
       ListNode* big= new ListNode(0);
       ListNode*bigcurr=big;
-
       ListNode*temp=head;
-
       while(temp){
          if(temp->val<x){
             small->next= new ListNode(temp->val);
@@ -31,12 +28,6 @@ public:
          temp=temp->next;
       }
       small->next=bigcurr->next;
-
-
-
       return smallcurr->next;
-
-
-      
     }
 };
