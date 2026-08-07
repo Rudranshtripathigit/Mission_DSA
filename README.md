@@ -79,6 +79,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
