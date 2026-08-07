@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0206-reverse-linked-list) |
@@ -30,6 +31,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
