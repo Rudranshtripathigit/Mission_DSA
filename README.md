@@ -11,6 +11,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -94,6 +95,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -105,6 +107,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
