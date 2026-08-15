@@ -1,0 +1,20 @@
+//s[i]=tolower(s[i)//  convert the lowercase to upper and upper to lower 
+
+
+//if(isupper(s[i])) // used to identify uppercase alphabhet in a string loop
+
+
+class Solution {
+public:
+    string toLowerCase(string s) {
+        for(int i=0;i<s.size();i++){
+           if(isupper(s[i])){
+             s[i]=tolower(s[i]);
+           }
+        }
+        return s;
+        
+    }
+};
+
+
