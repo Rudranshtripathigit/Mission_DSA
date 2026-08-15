@@ -115,6 +115,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0709-to-lower-case) |
