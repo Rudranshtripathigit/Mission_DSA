@@ -63,6 +63,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -87,6 +88,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -144,6 +147,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -176,4 +181,16 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
