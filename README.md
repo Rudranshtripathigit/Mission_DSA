@@ -41,6 +41,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0541-reverse-string-ii) |
@@ -62,6 +63,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
