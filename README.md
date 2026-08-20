@@ -29,6 +29,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0328-odd-even-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
