@@ -9,6 +9,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0345-reverse-vowels-of-a-string) |
