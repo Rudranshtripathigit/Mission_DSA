@@ -103,6 +103,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
