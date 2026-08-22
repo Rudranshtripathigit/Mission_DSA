@@ -98,6 +98,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
