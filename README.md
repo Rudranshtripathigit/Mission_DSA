@@ -105,6 +105,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -150,6 +151,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
+| [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -178,6 +180,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
@@ -204,6 +207,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
