@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -147,6 +148,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1768-merge-strings-alternately) |
