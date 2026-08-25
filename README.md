@@ -159,6 +159,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
@@ -220,6 +221,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0409-longest-palindrome](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 ## Design
