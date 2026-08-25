@@ -75,6 +75,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1816-truncate-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
@@ -159,6 +160,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
