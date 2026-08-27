@@ -71,6 +71,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1528-shuffle-string) |
@@ -157,6 +158,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0657-robot-return-to-origin](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
