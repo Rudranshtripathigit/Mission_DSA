@@ -60,6 +60,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -188,6 +189,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0647-palindromic-substrings) |
 ## Recursion
@@ -209,6 +211,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
