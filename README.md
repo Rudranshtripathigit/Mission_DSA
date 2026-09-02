@@ -74,6 +74,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
@@ -95,6 +96,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,6 +215,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
