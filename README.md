@@ -125,6 +125,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
+| [2413-smallest-even-multiple](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2413-smallest-even-multiple) |
 ## Euclidean Algorithm
 |  |
 | ------- |
