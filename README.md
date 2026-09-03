@@ -87,6 +87,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -183,6 +184,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -301,4 +303,20 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
