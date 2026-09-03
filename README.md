@@ -96,6 +96,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
@@ -119,6 +120,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -162,6 +164,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0541-reverse-string-ii) |
