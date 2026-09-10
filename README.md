@@ -168,6 +168,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
