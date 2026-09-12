@@ -53,6 +53,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0541-reverse-string-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -191,6 +193,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0709-to-lower-case](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
@@ -244,6 +247,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0402-remove-k-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
