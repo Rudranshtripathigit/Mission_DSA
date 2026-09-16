@@ -83,6 +83,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
@@ -114,6 +115,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0657-robot-return-to-origin](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -255,6 +257,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
