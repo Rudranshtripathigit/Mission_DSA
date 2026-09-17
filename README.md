@@ -255,6 +255,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
@@ -299,10 +300,12 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Minimax
 |  |
