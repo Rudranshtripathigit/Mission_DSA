@@ -63,6 +63,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -121,6 +123,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 ## Union-Find
 |  |
