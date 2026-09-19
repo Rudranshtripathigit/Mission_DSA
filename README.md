@@ -144,6 +144,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
@@ -191,6 +192,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0038-count-and-say) |
+| [0171-excel-sheet-column-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
