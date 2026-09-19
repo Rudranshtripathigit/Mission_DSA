@@ -231,6 +231,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting Sort
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Interactive
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
 | ------- |
@@ -403,4 +406,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
