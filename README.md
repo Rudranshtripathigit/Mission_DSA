@@ -57,6 +57,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0647-palindromic-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,6 +86,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
@@ -175,6 +177,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -307,6 +310,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0402-remove-k-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -412,4 +416,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
