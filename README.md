@@ -323,11 +323,13 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Minimax
 |  |
@@ -423,4 +425,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
