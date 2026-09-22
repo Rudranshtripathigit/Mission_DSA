@@ -83,6 +83,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
@@ -155,6 +156,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [0539-minimum-time-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0539-minimum-time-difference) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -180,6 +182,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0242-valid-anagram](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
@@ -213,6 +216,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0647-palindromic-substrings) |
