@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -189,6 +191,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -253,6 +256,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
