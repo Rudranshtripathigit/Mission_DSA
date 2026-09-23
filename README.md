@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0451-sort-characters-by-frequency](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -94,6 +95,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1470-shuffle-the-array) |
@@ -176,6 +178,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0074-search-a-2d-matrix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0278-first-bad-version) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
@@ -231,6 +235,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
