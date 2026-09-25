@@ -36,6 +36,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -89,6 +90,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
@@ -345,6 +347,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -352,6 +355,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
