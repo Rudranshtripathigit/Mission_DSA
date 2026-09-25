@@ -240,6 +240,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -305,6 +306,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -441,6 +443,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bucket Sort
 |  |
