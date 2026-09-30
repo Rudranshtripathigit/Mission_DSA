@@ -24,6 +24,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1370-increasing-decreasing-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -261,6 +262,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1859-sorting-the-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -278,12 +280,14 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
