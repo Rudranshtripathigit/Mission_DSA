@@ -124,6 +124,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -288,6 +289,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Minimax
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0389-find-the-difference](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
@@ -443,6 +447,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
