@@ -477,6 +477,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1757-recyclable-and-low-fat-products) |
