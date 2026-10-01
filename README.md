@@ -221,6 +221,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
@@ -311,6 +312,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0402-remove-k-digits) |
@@ -459,6 +461,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
