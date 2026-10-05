@@ -246,6 +246,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0771-jewels-and-stones](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -324,6 +325,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0496-next-greater-element-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -468,6 +470,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
