@@ -150,6 +150,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting Sort
