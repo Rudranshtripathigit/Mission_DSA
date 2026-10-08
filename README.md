@@ -67,6 +67,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1768-merge-strings-alternately) |
@@ -99,6 +100,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -248,6 +250,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0844-backspace-string-compare](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
@@ -365,6 +368,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0561-array-partition](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
