@@ -25,6 +25,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -127,6 +128,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -511,4 +513,12 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0584-find-customer-referee](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
