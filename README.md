@@ -155,6 +155,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
@@ -281,6 +282,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
@@ -346,6 +348,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
