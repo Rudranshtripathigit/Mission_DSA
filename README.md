@@ -133,6 +133,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -158,6 +159,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [3174-clear-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3838-weighted-word-mapping](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting Sort
 |  |
