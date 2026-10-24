@@ -189,6 +189,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -285,6 +286,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3110-score-of-a-string) |
