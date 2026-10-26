@@ -9,6 +9,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0073-set-matrix-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0219-contains-duplicate-ii) |
@@ -55,6 +56,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0086-partition-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0344-reverse-string) |
@@ -178,6 +180,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | ------- |
 | [0048-rotate-image](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0415-add-strings) |
@@ -531,4 +534,8 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
