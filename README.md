@@ -122,6 +122,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1773-count-items-matching-a-rule](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -153,6 +154,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0946-validate-stack-sequences](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -189,6 +191,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2029-stone-game-ix) |
@@ -329,6 +332,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0206-reverse-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 | [0933-number-of-recent-calls](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Minimax
