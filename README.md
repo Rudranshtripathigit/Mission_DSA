@@ -243,6 +243,7 @@ A collection of Data Structures and Algorithms (DSA) solutions solved during the
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/Rudranshtripathigit/Mission_DSA/tree/master/0171-excel-sheet-column-number) |
